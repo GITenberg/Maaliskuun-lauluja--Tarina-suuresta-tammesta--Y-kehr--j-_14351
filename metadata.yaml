@@ -1,0 +1,36 @@
+_repo: Maaliskuun-lauluja--Tarina-suuresta-tammesta--Y-kehr--j-_14351
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leino, Eino
+    aliases:
+    - Vilkastus, Mikko
+    - Lönnbohm, Armas Einar Leopold
+    - Sepeteus, Kanttori
+    - Lonnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Leino, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+description: ''
+gutenberg_issued: '2004-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14351'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish poetry'
+title: Maaliskuun lauluja; Tarina suuresta tammesta; Yökehrääjä
+url: http://www.gutenberg.org/ebooks/14351
